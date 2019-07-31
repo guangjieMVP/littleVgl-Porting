@@ -1,0 +1,1 @@
+lv_app文件夹、lv_display.c、lv_touchpad.c以及lv_app.h为移植自定义的内容
